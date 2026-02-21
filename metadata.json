@@ -1,0 +1,5 @@
+{
+  "name": "Ferramenta Forense OSINT",
+  "description": "Uma suíte de análise forense de metadados e OSINT baseada em navegador, totalmente offline e segura.",
+  "requestFramePermissions": []
+}
